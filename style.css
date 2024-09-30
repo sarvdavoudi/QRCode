@@ -45,7 +45,7 @@ body {
   border-radius: 20px;
 }
 
-.card span h1 {
+.card h1 {
   font-family: "Roboto-Bold";
   font-size: 25px;
   margin: 20px 0;
@@ -56,10 +56,10 @@ body {
   .card {
     padding: 15px;
   }
-  .card span h1 {
+  .card h1 {
     font-size: 15px;
   }
-  .card span p {
+  .card p {
     font-size: 13px;
   }
 }
